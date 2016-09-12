@@ -1,6 +1,6 @@
 # Acessibilidade Web
 
-Estudo que visa trabalhar em técnicas destinadas na acessibilidade do usuário baseado no projeto WAI-Aria da W3C.
+Estudo que visa trabalhar em técnicas destinadas na acessibilidade do usuário baseado no projeto WAI-ARIA da W3C.
 
 ### Créditos:
 <a href="http://getbootstrap.com/">Bootstrap Currently v3.3.7</a> <br>
