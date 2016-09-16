@@ -2,168 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="51dec4ee-0295-45b5-9465-272adcdb05ea" name="Default" comment="Iniciando projeto">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DESIGN-AI/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DESIGN-AI/desgin-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DESIGN-AI/desgin-02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DESIGN-AI/desgin-03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DESIGN-AI/desgin-04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DESIGN-AI/desgin.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DESIGN-AI/wireframe.ai" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-02.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/logo-dark-01.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/social-facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/social-tt.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/social-tt2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scientdoc.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/MegaNavbar-rtl.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/MegaNavbar-rtl.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/MegaNavbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/MegaNavbar.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/animation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/bling.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/bounce.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/flip.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/hinge.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/rotate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/scale.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/skew.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/slide.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/space.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/speed.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/animation/zoom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/less/MegaNavbar.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/sass/MegaNavbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-blue-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-blue-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-brown-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-brown-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-green-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-green-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-grey-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-grey-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-inverse-blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-inverse-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-inverse-green.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-inverse-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-inverse-orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-inverse.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-olive-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-pink-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-pink-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-red-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-red-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-violet-dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/skins/navbar-violet-light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/css/bootstrap-arabic-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/css/bootstrap-arabic-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/css/bootstrap-arabic-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/css/bootstrap-arabic.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/css/bootstrap-arabic.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/css/bootstrap-arabic.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/js/bootstrap-arabic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap-rtl/js/bootstrap-arabic.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/bootstrap/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/spinning.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_spinning.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/font-awesome/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/License.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/Readme.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.dev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/fonts/Simple-Line-Icons.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/icons-lte-ie7.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/simple-line-icons.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/plugins/simple-line-icons/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contato.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content-documentacao.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap-theme.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.min.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/default.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/vertical-navigation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documentacao.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/error-404.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/feartured-home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/formulario.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header-basic.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/grafico-pizza.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/npm.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/navigation.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider-documentacao.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/slider.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="scientdoc.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -229,8 +68,8 @@
           <file leaf-file-name="content-documentacao.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/content-documentacao.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="543">
-                  <caret line="188" column="94" selection-start-line="188" selection-start-column="94" selection-end-line="188" selection-end-column="94" />
+                <state relative-caret-position="-34">
+                  <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
                   <folding />
                 </state>
               </provider>
@@ -243,7 +82,7 @@
           <file leaf-file-name="vertical-navigation.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/vertical-navigation.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="764">
+                <state relative-caret-position="769">
                   <caret line="1716" column="0" selection-start-line="1716" selection-start-column="0" selection-end-line="1716" selection-end-column="0" />
                   <folding />
                 </state>
@@ -356,7 +195,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -391,7 +230,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -474,20 +313,20 @@
       <workItem from="1473099063119" duration="29793000" />
       <workItem from="1473359260719" duration="413000" />
       <workItem from="1473360343492" duration="1000000" />
-      <workItem from="1473605132309" duration="781000" />
+      <workItem from="1473605132309" duration="1390000" />
+      <workItem from="1473736096907" duration="2106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33810000" />
+    <option name="totallyTimeSpent" value="36525000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11980831" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12087327" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -495,6 +334,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -802,22 +642,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/default.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2261">
-          <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/vertical-navigation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="764">
-          <caret line="1716" column="0" selection-start-line="1716" selection-start-column="0" selection-end-line="1716" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/plugins/bootstrap-rtl/css/bootstrap-arabic.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="293">
@@ -871,10 +695,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/vertical-navigation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="769">
+          <caret line="1716" column="0" selection-start-line="1716" selection-start-column="0" selection-end-line="1716" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/default.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="133" column="18" selection-start-line="133" selection-start-column="18" selection-end-line="133" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/content-documentacao.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="188" column="94" selection-start-line="188" selection-start-column="94" selection-end-line="188" selection-end-column="94" />
+        <state relative-caret-position="-34">
+          <caret line="22" column="59" selection-start-line="22" selection-start-column="59" selection-end-line="22" selection-end-column="59" />
           <folding />
         </state>
       </provider>
